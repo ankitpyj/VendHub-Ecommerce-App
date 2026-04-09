@@ -93,10 +93,15 @@ npm start
 ---
 
 📊 Future Improvements
+
 Add MongoDB database
+
 Implement authentication system
+
 Add payment gateway
+
 Real-time order tracking
+
 Mobile-friendly UI
 
 ---
