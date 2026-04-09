@@ -59,3 +59,37 @@ Traditional supply chains often involve multiple intermediaries, reducing profit
 
 ---
 
+
+## 📂 Project Structure
+
+
+VendHub-Ecommerce-App/
+│── frontend/
+│── backend/
+│── README.md
+│── .gitignore
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+git clone https://github.com/ankitpyj/VendHub-Ecommerce-App.git
+cd VendHub-Ecommerce-App
+2️⃣ Install backend dependencies
+cd backend
+npm install
+3️⃣ Run backend server
+npm start
+
+---
+
+📊 Future Improvements
+Add MongoDB database
+Implement authentication system
+Add payment gateway
+Real-time order tracking
+Mobile-friendly UI
+
+---
