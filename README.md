@@ -75,14 +75,19 @@ VendHub-Ecommerce-App/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/ankitpyj/VendHub-Ecommerce-App.git
+
 cd VendHub-Ecommerce-App
 
 2️⃣ Install backend dependencies
+
 cd backend
+
 npm install
 
 3️⃣ Run backend server
+
 npm start
 
 ---
